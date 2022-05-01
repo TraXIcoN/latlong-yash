@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645778372831",
+    "firebase_url": "https://latlong-yash-fb573-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latlong-yash-fb573",
+    "storage_bucket": "latlong-yash-fb573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645778372831:android:a5920812b33056beac116a",
+        "android_client_info": {
+          "package_name": "com.example.latlongyash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645778372831-m2fmutgj3ocbhoin1tgdp4lbtk0tbre8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSvidBfTfm9ngJcdaWY3k17xaEDBqzz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645778372831-m2fmutgj3ocbhoin1tgdp4lbtk0tbre8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
